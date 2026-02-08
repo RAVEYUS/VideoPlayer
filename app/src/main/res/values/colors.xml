@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Dark Mode Palette -->
+    <color name="dark_background">#FF121212</color>
+    <color name="dark_surface">#FF1E1E1E</color>
+    <color name="greyish_white">#FFBDBDBD</color>
+    <color name="pure_white">#FFFFFFFF</color>
+
+    <!-- Light Mode Palette (Inverted) -->
+    <color name="light_background">#FFFFFFFF</color>
+    <color name="light_surface">#FFF5F5F5</color>
+    <color name="dark_text">#FF212121</color>
+</resources>
